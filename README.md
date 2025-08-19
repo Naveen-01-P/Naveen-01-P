@@ -58,3 +58,13 @@
   <img src="https://leetcard.jacoblin.cool/naveen_kumar_p?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Heatmap"/>
 </p>
 
+
+---
+
+![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+
+
