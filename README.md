@@ -52,8 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/naveen_kumar_p?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
-</p>
+  
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/naveen_kumar_p?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Heatmap"/>
