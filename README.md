@@ -62,9 +62,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-01-P&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-01-P&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveen-01-P&theme=tokyo-night)
+
+
 
 
 
