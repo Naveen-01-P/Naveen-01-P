@@ -2,13 +2,12 @@
 <h3 align="center">🚀 Java | DSA | SQL | Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Passionate+Developer;Problem+Solver;Full-Stack+Enthusiast;DSA+Lover" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Passionate+Developer;Problem+Solver;Full-Stack+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
 💻 Passionate about building scalable systems & solving real-world problems <br>
 📊 Experienced in Data Visualization & Backend Integration <br>
-🌱 Built <b>GreenChain – Decentralized Environmental Data Exchange</b> with real-time sensor dashboards
 </p>
 
 <p align="center">
