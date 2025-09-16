@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naveen Kumar P</h1>
+<h1 align="center">Hi, I'm Naveen Kumar P</h1>
 <h3 align="center"> Java | DSA | SQL | Full-Stack Developer</h3>
 
 <p align="center">
