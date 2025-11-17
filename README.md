@@ -105,3 +105,65 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Naveen-01-P&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+# ⭐ NEW SECTIONS ADDED BELOW (NOTHING ABOVE is edited)
+
+## 🚀 Featured Projects
+
+### 🔹 GreenChain – Real-Time Environmental Monitoring  
+A complete sensor-based dashboard with live data simulation, charts, filters, dark mode, and export features.  
+**Tech:** Java, Swing, JFreeChart, JDBC, MySQL  
+🔗 **Repo:** https://github.com/Naveen-01-P/GreenChain
+
+### 🔹 Car Rental System – MERN Full Stack  
+A full-featured platform with booking, authentication, admin panel, and payment simulation.  
+**Tech:** React, Node.js, Express, MongoDB  
+🔗 **Repo:** https://github.com/Naveen-01-P/Car-Rental-System
+
+---
+
+## 🧠 What I'm Learning Right Now
+- Advanced **Java Backend Architecture**
+- Deep dive into **DSA in Java**
+- SQL Query Optimization
+- Low-Level Design for interviews
+- Clean Coding & Scalable System Thinking
+
+---
+
+## 🛠️ Recent Achievements
+- Solved **400+ coding problems**  
+- Built **real-time JFreeChart dashboards**  
+- Completed multiple internship-level applications  
+- Daily structured placement preparation  
+
+---
+
+## 🎯 Current Goals (2025)
+- Crack opportunities in service-based & product-based companies  
+- Build strong Java + Full Stack portfolio projects  
+- Master DSA, SQL, and system design fundamentals  
+
+---
+
+## 📌 Resume
+➡️ **Download My Resume (PDF):**  
+[Naveen Kumar P – Resume](Naveen%20Kumar%20%20P%20Resume_VSBEC.pdf)
+
+---
+
+## 🏆 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-01-P&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🎶 Vibes While Coding
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31irzdvhgvz6lncmbiyqyoxbae5q&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
+</p>
+
+---
